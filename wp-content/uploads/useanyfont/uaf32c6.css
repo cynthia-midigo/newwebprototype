@@ -1,0 +1,121 @@
+			@font-face {
+				font-family: 'helvetica-neue-bold';
+				font-style: normal;
+				src: url('160110024217Helvetica-Neue-Bold.eot');
+				src: local('helvetica-neue-bold'), url('160110024217Helvetica-Neue-Bold.eot') format('embedded-opentype'), url('160110024217Helvetica-Neue-Bold.woff') format('woff');
+			}
+            
+            .helvetica-neue-bold{font-family: 'helvetica-neue-bold' !important;}
+            
+					@font-face {
+				font-family: 'helvetica-neue-light';
+				font-style: normal;
+				src: url('160110025243helvetica-neue-Light.eot');
+				src: local('helvetica-neue-light'), url('160110025243helvetica-neue-Light.eot') format('embedded-opentype'), url('160110025243helvetica-neue-Light.woff') format('woff');
+			}
+            
+            .helvetica-neue-light{font-family: 'helvetica-neue-light' !important;}
+            
+					@font-face {
+				font-family: 'helvetica-neue-regul';
+				font-style: normal;
+				src: url('160610061810helvetica-neue-regul.eot');
+				src: local('helvetica-neue-regul'), url('160610061810helvetica-neue-regul.eot') format('embedded-opentype'), url('160610061810helvetica-neue-regul.woff') format('woff');
+			}
+            
+            .helvetica-neue-regul{font-family: 'helvetica-neue-regul' !important;}
+            
+					@font-face {
+				font-family: 'helvetica-neue-liglt';
+				font-style: normal;
+				src: url('160610061849helvetica-neue-liglt.eot');
+				src: local('helvetica-neue-liglt'), url('160610061849helvetica-neue-liglt.eot') format('embedded-opentype'), url('160610061849helvetica-neue-liglt.woff') format('woff');
+			}
+            
+            .helvetica-neue-liglt{font-family: 'helvetica-neue-liglt' !important;}
+            
+					@font-face {
+				font-family: 'helvetica-neue-it';
+				font-style: normal;
+				src: url('160610062746Helvetica-Neue-It.eot');
+				src: local('helvetica-neue-it'), url('160610062746Helvetica-Neue-It.eot') format('embedded-opentype'), url('160610062746Helvetica-Neue-It.woff') format('woff');
+			}
+            
+            .helvetica-neue-it{font-family: 'helvetica-neue-it' !important;}
+            
+					@font-face {
+				font-family: 'brandon-text-bold';
+				font-style: normal;
+				src: url('170405090905Brandon-Text-Bold.eot');
+				src: local('brandon-text-bold'), url('170405090905Brandon-Text-Bold.eot') format('embedded-opentype'), url('170405090905Brandon-Text-Bold.woff') format('woff');
+			}
+            
+            .brandon-text-bold{font-family: 'brandon-text-bold' !important;}
+            
+					@font-face {
+				font-family: 'brandon-text-light';
+				font-style: normal;
+				src: url('170405090936Brandon-Text-Light.eot');
+				src: local('brandon-text-light'), url('170405090936Brandon-Text-Light.eot') format('embedded-opentype'), url('170405090936Brandon-Text-Light.woff') format('woff');
+			}
+            
+            .brandon-text-light{font-family: 'brandon-text-light' !important;}
+            
+					@font-face {
+				font-family: 'brandon-text-regular';
+				font-style: normal;
+				src: url('170405091010Brandon-Text-Regular.eot');
+				src: local('brandon-text-regular'), url('170405091010Brandon-Text-Regular.eot') format('embedded-opentype'), url('170405091010Brandon-Text-Regular.woff') format('woff');
+			}
+            
+            .brandon-text-regular{font-family: 'brandon-text-regular' !important;}
+            
+					@font-face {
+				font-family: 'brandon-text-reg-it';
+				font-style: normal;
+				src: url('170405091039Brandon-Text-Reg-It.eot');
+				src: local('brandon-text-reg-it'), url('170405091039Brandon-Text-Reg-It.eot') format('embedded-opentype'), url('170405091039Brandon-Text-Reg-It.woff') format('woff');
+			}
+            
+            .brandon-text-reg-it{font-family: 'brandon-text-reg-it' !important;}
+            
+						blockquote{
+					font-family: '' !important;
+				}
+						h1, h2, h3, h4, h5, h6{
+					font-family: 'brandon-text-bold' !important;
+				}
+						widgettitle{
+					font-family: 'brandon-text-bold' !important;
+				}
+						body{
+					font-family: 'brandon-text-regular' !important;
+				}
+						p.italic{
+					font-family: 'brandon-text-reg-it' !important;
+				}
+						.et_pb_testimonial_author, p, li{
+					font-family: 'brandon-text-regular' !important;
+				}
+						strong{
+					font-family: 'brandon-text-bold' !important;
+				}
+						.et_pb_button_one.et_pb_button{
+					font-family: 'brandon-text-bold' !important;
+				}
+						em{
+					font-family: 'brandon-text-bold' !important;
+				}
+						h1.entry-title{
+					font-family: 'brandon-text-bold' !important;
+				}
+						p:last-of-type, #left-area .post-meta, .post-meta{
+					font-family: 'brandon-text-regular' !important;
+				}
+						.et_pb_post .entry-title a{
+					font-family: 'brandon-text-bold' !important;
+				}
+						.et_pb_bg_layout_light .et_pb_post .post-meta{
+					font-family: 'brandon-text-regular' !important;
+				}
+		
